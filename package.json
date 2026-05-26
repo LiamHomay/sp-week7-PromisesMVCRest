@@ -1,0 +1,24 @@
+{
+  "name": "sp-week7-promisesmvcrest",
+  "version": "1.0.0",
+  "description": "https://github.com/LiamHomay/sp-week7-PromisesMVCRest.git",
+  "main": "promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamHomay/sp-week7-PromisesMVCRest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamHomay/sp-week7-PromisesMVCRest/issues"
+  },
+  "homepage": "https://github.com/LiamHomay/sp-week7-PromisesMVCRest#readme",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
